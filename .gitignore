@@ -2,3 +2,4 @@ pgm
 a.out
 *.o
 *.save
+*.out

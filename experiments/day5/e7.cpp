@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-int x = 5;
-delete &x;
+int* x = new[] int(10);
+delete x;
 return 0;
 }
